@@ -1,0 +1,16 @@
+jupyterlab
+numpy
+matplotlib
+pandas
+seaborn
+plotly
+ipywidgets
+statsmodels
+scikit-learn
+yellowbrick
+dtreeviz
+xgboost
+nltk
+gensim
+tensorflow==2.17
+jax
